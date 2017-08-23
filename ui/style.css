@@ -20,7 +20,8 @@ body {
     height: 200px;
 }
 
-.container {margin: 0 auto;
+ .container {
+     margin: 0 auto;
     color: grey;
     font-family: sans-serif;
     max-width: 800px;
